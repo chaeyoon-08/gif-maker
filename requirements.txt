@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+opencv-python-headless
+imageio[ffmpeg]
+pillow

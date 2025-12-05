@@ -1,0 +1,15 @@
+pycache/
+*.py[cod]
+venv/
+env/
+.env
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.mp4
+output.gif
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
