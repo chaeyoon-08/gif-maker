@@ -9,7 +9,7 @@ import gc
 st.set_page_config(page_title="GIF-Maker", page_icon="🎥", layout="centered")
 
 st.title("🎥 GIF-Maker")
-st.markdown("### 정지된 사진에 생명을 불어넣으세요 ✨")
+st.markdown("### 정지된 사진에 움직임을 넣어보세요요 ✨")
 st.markdown("Powered by **Stable Video Diffusion (SVD-XT)**")
 
 if 'generated_gif' not in st.session_state:
